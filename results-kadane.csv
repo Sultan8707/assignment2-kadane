@@ -1,0 +1,13 @@
+algorithm,size,dist,run,elapsedNs,comparisons,arrayAccesses,assignments
+kadane,100,random,1,270400,99,100,0
+kadane,100,random,2,5900,99,100,0
+kadane,100,random,3,9300,99,100,0
+kadane,1000,random,1,44900,999,1000,0
+kadane,1000,random,2,69400,999,1000,0
+kadane,1000,random,3,42900,999,1000,0
+kadane,10000,random,1,403900,9999,10000,0
+kadane,10000,random,2,404100,9999,10000,0
+kadane,10000,random,3,403400,9999,10000,0
+kadane,100000,random,1,2280500,99999,100000,0
+kadane,100000,random,2,942700,99999,100000,0
+kadane,100000,random,3,242300,99999,100000,0
